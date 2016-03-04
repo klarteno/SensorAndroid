@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context=".MainActivity">
+
+<item android:id="@+id/new_saber_sensor"
+      android:icon="@mipmap/saber_launcher"
+      android:title="@string/saber_sensor"
+      android:showAsAction="ifRoom"/>
+
+<item android:id="@+id/help"
+      android:icon="@mipmap/help_launcher"
+      android:title="@string/help_sensors"
+      android:showAsAction="ifRoom"/>
+</menu>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HandInSensors_MOB</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_lightsaber">LightsaberActivity</string>
+    <string name="saber_sensor">Saber Sensor Wipe</string>
+    <string name="help_sensors">Help</string>
+    <string name="compass_sensor">Compass</string>
+</resources>
